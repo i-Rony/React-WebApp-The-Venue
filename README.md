@@ -1,6 +1,6 @@
 ## A simple React Webapp for a music fan page incorporating react-reveal, react-scroll and Material UI. 
 ## To check out the site, visit http://repulsive-view.surge.sh/
-
+### Please do not click this link if you are on a mobile device since React-bootstrap have not been used
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
